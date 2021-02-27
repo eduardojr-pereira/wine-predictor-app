@@ -1,0 +1,8 @@
+
+Nome_aluno: Eduardo Junior Pereira
+
+https://wine-recognition-app.herokuapp.com/
+heroku_git url: https://git.heroku.com/wine-recognition-app.git
+git repo: https://github.com/eduardojr-pereira/wine-predictor-app.git
+
+
